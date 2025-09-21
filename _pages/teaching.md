@@ -2,11 +2,51 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: This section shows the teaching given in degrees, masters and other official studies in last years.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Academic Year 2025/26
 
-Organize your courses by years, topics, or universities, however you like!
+Business Process Management
+Degree in Computer Engineering
+
+Databases
+Degree in Artificial Intelligence
+
+Storage. Preprocessing and Advanced Data Analysis
+Degree in Artificial Intelligence
+
+Academic Year 2024/25
+Business Process Management
+Degree in Computer Engineering
+
+Computer Science for Business
+Degree in Business Studies
+
+Databases
+Degree in Artificial Intelligence
+
+Final Year Dissertation
+Degree in Data Science and Engineering
+
+Final Year Dissertation. Mention in Information Systems
+Degree in Computer Engineering
+
+Academic Year 2023/24
+Computer Science for Business
+Degree in Business Studies
+
+Databases
+Degree in Artificial Intelligence
+
+Final Year Dissertation. Mention in Software Engineering
+Degree in Computer Engineering
+
+Academic Year 2022/23
+Business Process Management
+Degree in Computer Engineering
+
+Computer Science Preliminaries
+Degree in Computer Engineering
