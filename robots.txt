@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ramosvidal.github.io/sitemap.xml
