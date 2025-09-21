@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Delfina Ramos Vidal",
-    "label": "Predoctoral Researcher",
+    "role": "Predoctoral Researcher",
     "image": "",
     "email": "delfinaramosvidal@gmail.com",
     "url": "https://ramosvidal.github.io/",
@@ -21,15 +21,23 @@
       }
     ]
   },
-  "work": [
+  "Research Experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
+      "name": "University of A Coruña, A Coruña, Spain",
+      "position": "Predoctoral FPI Fellowship",
+      "url": "https://pdi.udc.es/en/File/Pdi/QG83K",
+      "startDate": "2022-08-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "highlights": ["Predoctoral fellowship for Research Personnel Training (FPI) in the national project “Enhanced Exploitation of Trajectories with Compact Data Structures and GIS.” (Ref: PID2020-114635RB-I00)","Research, design, implement, and validate mobility management and data engineering tools.","Preparation of scientific papers and presentation at national and international conferences.","Contribute to the development of international, national, European, and internal projects."]
+    },
+    {
+      "name": "University of A Coruña, A Coruña, Spain",
+      "position": "Research Assitant",
+      "startDate": "2020-11-01",
+      "endDate": "2022-07-31",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Research for the Database Laboratory at the University of A Coruña.","Analysis and implementation of a solution to integrate Compact Data Structures for RDF with SPARQL.","Preparation of scientific papers and presentation at national and international conferences.","Development of solutions in R&D projects."]
     }
   ],
   "volunteer": [
