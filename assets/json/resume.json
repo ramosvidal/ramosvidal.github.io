@@ -4,8 +4,7 @@
     "label": "Predoctoral Researcher",
     "image": "",
     "email": "delfinaramosvidal@gmail.com",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "https://ramosvidal.github.io/",
     "summary": "Predoctoral researcher at the University of A Coruña, focusing on the evolution and maintainability of variability-intensive legacy systems. My work bridges software product lines and data-intensive systems, addressing the co-evolution of code, data schemas, and data.",
     "location": {
       "address": "",
@@ -151,13 +150,18 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "C2 Level – Cambridge University Certificate in Advanced Englishnt",
+      "icon": ""
+    },
+    {
+      "language": "Galician",
+      "fluency": "C1 Level – CELGA 4 Certificate",
       "icon": ""
     }
   ],
