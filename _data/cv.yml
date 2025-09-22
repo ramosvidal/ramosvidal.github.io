@@ -4,19 +4,19 @@
     - name: Full Name
       value: Delfina Ramos Vidal
     - name: Role
-      value: Predoctoral Researcher at University of A Coruña
+      value: Predoctoral Researcher at Universidade da Coruña
     - name: Location
       value: A Coruña, Spain
     - name: LinkedIn
       value: <a href="https://www.linkedin.com/in/delfina-ramos-vidal/">My Profile</a>
     - name: Summary
-      value: Predoctoral researcher at the University of A Coruña, focusing on the evolution and maintainability of variability-intensive legacy systems. My work bridges software product lines and data-intensive systems, addressing the co-evolution of code, data schemas, and data.
+      value: Predoctoral researcher at the Universidade da Coruña, focusing on the evolution and maintainability of variability-intensive legacy systems. My work bridges software product lines and data-intensive systems, addressing the co-evolution of code, data schemas, and data.
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Computing
-      institution: University of A Coruña, A Coruña, Spain
+      institution: Universidade da Coruña, A Coruña, Spain
       year: 2021 - 2025
       description:
         - Thesis "Automated Evolution of Data Schemas in Variability-Intensive Information Systems"
@@ -29,7 +29,7 @@
       institution: North Carolina State University, NC, United States of America
       year: 2024.01 - 2024.07
       description:
-        - Visiting Scholar at the Software Engineering Group, Department of Computer Science
+        - Visiting Scholar at the <a href="https://ncsu.software/">Software Engineering Group</a>, Department of Computer Science
         - Supervised by Prof. Wesley K.G. Assunção
     - title: MSc. in Data Science
       institution: Universidad Politécnica de Madrid, Madrid, Spain
@@ -39,7 +39,7 @@
         - Final Project "SPARQL evaluation over compact data structures"
         - Grade 8.57/10
     - title: Degree in Computer Science
-      institution: Universidad Politécnica de Madrid, Madrid, Spain
+      institution: Universidade da Coruña, A Coruña, Spain
       year: 2020 - 2021
       description:
         - Coursed bilingual studies in Spanish-English.
@@ -51,7 +51,7 @@
   type: time_table
   contents:
     - title: Predoctoral FPI Fellowship
-      institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
+      institution: Universidade da Coruña, A Coruña, Spain
       year: 2022 - 2025
       description:
         - Predoctoral fellowship for Research Personnel Training (FPI) in the national project "Enhanced Exploitation of Trajectories with Compact Data Structures and GIS." (Ref. PID2020-114635RB-I00).
@@ -60,10 +60,10 @@
         - Contribute to the development of international, national, European, and internal projects.
 
     - title: Research Assistant
-      institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
+      institution: Universidade da Coruña, A Coruña, Spain
       year: 2020 - 2022
       description:
-        - Research for the Database Laboratory at the University of A Coruña.
+        - Research for the Database Laboratory at Universidade da Coruña.
         - Analysis and implementation of a solution to integrate Compact Data Structures for RDF with SPARQL.
         - Preparation of scientific papers and presentation at national and international conferences.
         - Development of solutions in R&D projects.
@@ -72,7 +72,7 @@
   type: time_table
   contents:
     - title: Predoctoral Fellow
-      institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
+      institution: Universidade da Coruña, A Coruña, Spain
       year: 2022 - 2025
       description:
         - Teaching Assistant, BSc in Artificial Intelligence. Databases and Storage, Preprocessing and Advanced Data Analysis.
@@ -80,7 +80,7 @@
         - Teaching Assistant, BSc in Computer Science. Computer Sciences Preliminaries and Business Process Management.
 
     - title: Substitute Teaching
-      institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
+      institution: Universidade da Coruña, A Coruña, Spain
       year: 2022
       description:
         - Teaching Assistant, BSc in Computer Science. Computer Sciences Preliminaries, Business Process Management
@@ -104,26 +104,35 @@
     - title: '<a href="https://doi.org/10.1016/j.jss.2024.112285">SPL-DB-Sync: Seamless database transformation during feature-driven changes</a>'
       year: 2025
       department: Journal of Software and Systems
-      description:
-        - 
     - title: '<a href="https://arxiv.org/abs/2504.17662">Seamless Data Migration between Database Schemas with DAMI-Framework: An Empirical Study on Developer Experience</a>'
       year: 2025
       department: EASE 2025
-      description:
-        - 
     - title: '<a href="https://doi.org/10.1145/3646548.3676551">Advancing Legacy Software Modernization through Software Product Line Engineering: A Case Study in Digital Libraries</a>'
       year: 2024
       department: SPLC 2024
-      description:
-        - 
     - title: '<a href="https://doi.org/10.1145/3593434.3593436">Reengineering legacy document information systems: Challenges and solutions</a>'
       year: 2023
       department: EASE 2023
-      description:
-        - 
     - title: Full list of publications at <a href="https://ramosvidal.github.io/publications/">Publications</a>
 
-# - title: Research Projects
+- title: Research & Development Projects
+  type: time_table
+  contents:
+    - title: Project "Reengineering of the Galician Virtual Library"
+      year: 2022.06 - 2023.03
+      description:
+      - Project management, team management, organization and distribution of tasks.
+      - Negotiation of requirements with the client.
+      - Integration of the Software Product Line for Digital Libraries, which managed to save 40% in time and cost.
+      - <b>Technologies:</b> NodeJS / Vue / PostgreSQL/ Bootstrap / Docker / Nginx / SQL / NPM / REST / Axios / Git
+    - title: Project "Intercultural Digitization" Content Cloud
+      year: 2021.04 - 202.02
+      description:
+      - Development of a comprehensive platform for language teaching, focused on the content cloud node.
+      - Analyze and guide the integration of an H5P server that would allow the use of interactive resources.
+      - <b>Technologies:</b> NodeJS / Vue / Vuetify / Docker / Nginx / SQL / NPM / Axios / TypeScript / H5P / Git
+
+# - title: Research  Projects
 #   type: time_table
 #   contents:
 #     - title: Modeling, Discovering, Exploring and Analyzing Environmental Data Lakes 
