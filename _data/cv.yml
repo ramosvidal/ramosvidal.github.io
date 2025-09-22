@@ -38,7 +38,7 @@
       description:
         - Master's Final Project Award funded by the Universidad Politécnica de Madrid (Grants for official masters).
         - Final Project "SPARQL evaluation over compact data structures"
-        - Grade 8.57/10
+        #- Grade 8.57/10
     - title: Degree in Computer Science
       institution: Universidade da Coruña, A Coruña, Spain
       year: 2020 - 2021
@@ -46,7 +46,7 @@
         - Coursed bilingual studies in Spanish-English.
         - Specialized in Information Systems. 
         - Final Project "Tool for the semi-automatic generation of software for Digital Libraries"
-        - Grade 7.24/10
+        #- Grade 7.24/10
 
 - title: Research Experience
   type: time_table
@@ -299,5 +299,5 @@
   type: time_table
   contents:
     - title: Hello Sisters Association
-      year: 2029-now
+      year: 2019-now
       maindescription: Participation in an association for the visibility of women in Computer Engineering.
