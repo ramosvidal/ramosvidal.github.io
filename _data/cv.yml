@@ -15,73 +15,154 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computing
+      institution: University of A Coruña, A Coruña, Spain
+      year: 2021 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis “Automated Evolution of Data Schemas in Variability-Intensive Information Systems”
+        - Visiting Scholar at North Carolina State University, United States of America (01/2024 - 07/2024) 
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: MSc. in Data Science
+      institution: Universidad Politécnica de Madrid, Madrid, Spain
+      year: 2020 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Master's Final Project Award funded by the Universidad Politécnica de Madrid (Grants for official masters).
+        - Final Project “SPARQL evaluation over compact data structures”
+        - Grade: 8.57/10
+    - title: Degree in Computer Science
+      institution: Universidad Politécnica de Madrid, Madrid, Spain
+      year: 2020 - 2021
+      description:
+        - Coursed bilingual studies in Spanish-English.
+        - Specialized in Information Systems. 
+        - Final Project “Tool for the semi-automatic generation of software for Digital Libraries”
+        - Grade: 7.24/10
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Predoctoral FPI Fellowship
+      institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Predoctoral fellowship for Research Personnel Training (FPI) in the national project “Enhanced Exploitation of Trajectories with Compact Data Structures and GIS.” (Ref. PID2020-114635RB-I00).
+        - Research, design, implement, and validate mobility management and data engineering tools.
+        - Preparation of scientific papers and presentation at national and international conferences.
+        -	Contribute to the development of international, national, European, and internal projects.
+
+    - title: Research Assistant
+      institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
+      year: 2020 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Research for the Database Laboratory at the University of A Coruña.
+        -	Analysis and implementation of a solution to integrate Compact Data Structures for RDF with SPARQL.
+        -	Preparation of scientific papers and presentation at national and international conferences. 
+        -	Development of solutions in R&D projects.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Predoctoral Fellow
+      institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
+      year: 2022 - Present
+      description:
+        -	Teaching Assistant, BSc in Artificial Intelligence — Databases and Storage, Preprocessing and Advanced Data Analysis.
+        -	Teaching Assistant, BSc in Economics — Computer Science for Business.                           
+        -	Teaching Assistant, BSc in Computer Science — Computer Sciences Preliminaries and Business Process Management.
+
+    - title: Substitute Teaching
+      institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
+      year: 2022
+      description:
+        - Teaching Assistant, BSc in Computer Science — Computer Sciences Preliminaries, Business Process Management
+
+- title: Research Projects
+  type: time_table
+  contents:
+    - title: Modeling, Discovering, Exploring and Analyzing Environmental Data Lakes 
+      reference: PID2022-141027NB-C21
+      institution: Ministerio de Ciencia e Innovación. Convocatoria 2022 Generación de Conocimiento
+      budget: 103.875 euros
+      Duration: 1-set-2023 to 31-ago-2026
+      Principal Investigators: Miguel Ángel Rodríguez Luaces, Susana Ladra González
+      Participation: Member of the development team
+
+    - title: PLAtform for the automatic Generation of Energy-efficient Mobility Information Systems (MIS) using compact data structures and Geographic Information Systems (GIS) 
+      Reference: TED2021-129245B-C21
+      Financial institution: Ministerio de Ciencia e Innovación. Convocatoria 2021. Proyectos estratégicos orientados a la transición ecológica y Transición digital
+      Budget amount: 290.030 euros
+      Duration: 1-dec-2022 to 30-nov-2024 
+      Principal investigators: Nieves Rodríguez Brisaboa, Miguel Ángel Rodríguez Luaces
+      Participation: Member of the development team
+    - OASSIS-UDC: Towards More Sustainable Software Organisations: A holistic approach to promoting economic, human and environmental sustainability
+      Reference: PID2021-122554OB-C33
+      Financial institution: Ministerio de Ciencia e Innovación. Convocatoria 2021 Generación de Conocimiento
+      Budget amount: 135.520 euros
+      Duration: 1-xan-2022 to 31-dec-2025
+      Principal investigators: Óscar Pedreira Fernández, Antonio Fariña Martínez Participation: Member of the development team
+    - title: Semantically enriched interoperable GIS for analysis and management of public TRANSportation
+      Reference: PDC2021-120917-C21
+      Financial institution: Ministerio de Ciencia e Innovación. Convocatoria 2021 Retos Sociedad - Proba Concepto
+      Budget amount: 74.750 euros
+      Duration: 1-dec-2021 to 31-mai-2024
+      Principal investigators: Nieves Rodríguez Brisaboa, José Ramón Paramá Gabía
+      Participation: Member of the development team
+    - title: Enriched exploitation of trajectories with compact data structures and GIS
+      Financial institution: Ministerio de Ciencia e Innovación. Convocatoria 2020 Retos Sociedade
+      Reference: PID2020-114635RB-I00
+      Duration: 2021 to 2024
+      Budget amount: 282.535 euros
+      Principal Investigators: Nieves Rodríguez Brisaboa, José Ramón Paramá Gabía
+      Participation: Member of the development team
+    - title: Helps for the consolidation and structuring of competitive research units of the SUG - Competitive Reference Group Modality 2021
+      Financial institution: Consellería de Cultura, Educación e Universidade, Consellería de Economía, Empresa e Innovación, GAIN, Xunta de Galicia. Programa de Axudas de Consolidación e Estruturación de Unidades de Investigación Competitivas. Convocatoria 2021
+      Reference: ED431C 2021/53
+      Duration: 2021 to 2024
+      Budget amount: 320.000 euros
+      Principal investigators: Nieves Rodríguez Brisaboa
+      Participation: Member of the research team
+
+    - title: Streaming and analytic visualization and exploration of spatial big data
+      Financial institution: Ministerio de Ciencia e Innovación. Convocatoria 2019 Retos Investigación
+      Reference: PID2019-105221RB-C41
+      Duration: 2020 to 2023
+      Budget amount: 45.617 euros
+      Principal Investigators: Miguel Ángel Rodríguez Luaces, Susana Ladra González
+      Participation: Hired for the project
+    - title: BIZDEVOPS-Global A Technological and Methodological Sustainable Framework for Software Development aligned with Business in DevOps Global
+      Financial institution: Ministerio de Ciencia, Innovación e Universidades. Convocatoria 2018 proxectos I+D+i "Retos investigación"
+      Reference: RTI2018-098309-B-C32
+      Duration: 2019 to 2021
+      Budget amount: 108.900 euros
+      Principal Investigators: Óscar Pedreira Fernández, Antonio Fariña Martínez
+      Participation: Hired for the project
+    - title: Data 4.0. Challenges and Solutions - UDC
+      Financial institution: Ministerio de Economía e Competitividade, Programa Retos da Sociedade, convocatoria 2016
+      Reference: TIN2016-78011-C4-1-R
+      Duration: 2016 to 2021
+      Budget amount: 159.599 euros
+      Principal Investigators: Nieves Rodríguez Brisaboa, José Ramón Paramá Gabía
+      Participation: Hired for the project
+
+
+- title: Contracts, technological or transfer merits
+  type: time_table
+  contents:
+    - title: 
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Master'S Final Project Award (Year 2020-2021)
+      year: 2021
+      institution: Universidad Politécnica de Madrid
+      description: Awarded by Universidad Politécnica de Madrid for the Final Project titled “SPARQL evaluation over compact data structures”.
+    - title: Spanish Society of Academic Excellence
+      year: 2021
+      description: Identification Nº 4339. Position 57 in the 2021 National Ranking in Computer Science.
 
 - title: Academic Interests
   type: nested_list
