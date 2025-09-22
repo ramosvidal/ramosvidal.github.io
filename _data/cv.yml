@@ -254,24 +254,34 @@
       year: 2025
       maindescription: Responsible for promoting the 29th ACM International Systems and Software Product Line Conference through academic channels, mailing lists, and social media.
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items:
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-- title: Languages
-  type: list
+- title: Skills & Interests
+  type: nested_list
   contents:
-    - <b>English:</b> Proficient <em>(C2 Level – Cambridge University Certificate in Advanced Englishnt)</em>.
-    - <b>Spanish:</b> Native speaker.
-    - <b>Galician:</b> Proficient <em>(C1 Level – CELGA 4 Certificate)</em>.
+    - title: Technical Skills.
+      items:
+        - <b>Web Development:</b> Vue 2 and 3 (5 yrs.), JavaScript (5 yrs.), NodeJS (4 yrs.), NPM (4 yrs.), Bootstrap (1 yr.)
+        - <b>Databases:</b> SQL (9 yrs.), NoSQL (2 yr.), PostgreSQL (6 yrs.), ETL (6 yrs.)
+        - <b>Infrastructure:</b> Spring (5 yrs.), Hibernate (5 yrs.), JPA (5 yrs.)
+        - <b>Statistical analysis:</b> R (5 yrs.), Statgraphics (1 yr.)
+        - <b>Data analysis:</b> Python (3 yrs.), Pandas (3 yrs.)
+        - <b>Machine Learning:</b> Python (3 yrs.); Weka (1 yr.)
+        - <b>Others:</b> Git (6 yrs.), Docker (3 yrs.)
+    - title: Languages
+      items:
+        - <b>English:</b> Proficient <em>(C2 Level – Cambridge University Certificate in Advanced Englishnt)</em>.
+        - <b>Spanish:</b> Native speaker.
+        - <b>Galician:</b> Proficient <em>(C1 Level – CELGA 4 Certificate)</em>.
+    - title: Certifications
+      items:
+        - <b>SAP Certified Associate:</b> SAP S/4HANA Cloud Private Edition, Financial Accounting <em>(02/2025)</em>
+        - <b>NVIDIA:</b> Fundamentals of Deep Learning <em>(11/2022)</em>
+
+# - title: Languages
+#   type: list
+#   contents:
+#     - <b>English:</b> Proficient <em>(C2 Level – Cambridge University Certificate in Advanced Englishnt)</em>.
+#     - <b>Spanish:</b> Native speaker.
+#     - <b>Galician:</b> Proficient <em>(C1 Level – CELGA 4 Certificate)</em>.
 
 # - title: Other Interests
 #   type: list
