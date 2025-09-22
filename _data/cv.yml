@@ -56,7 +56,7 @@
       year: 2022 - 2025
       description:
         - Predoctoral fellowship for Research Personnel Training (FPI) in the national project "Enhanced Exploitation of Trajectories with Compact Data Structures and GIS." (Ref. PID2020-114635RB-I00).
-        - Research, design, implement, and validate mobility management and data engineering tools.
+        - Research, design, implement, and validate solutions to automate evolution of variability-intensive information systems.
         - Preparation of scientific papers and presentation at national and international conferences.
         - Contribute to the development of international, national, European, and internal projects.
 
@@ -119,6 +119,13 @@
 - title: Research & Development Projects
   type: time_table
   contents:
+    - title: Digitization of "Literary Edition in Galicia, 1975-2000"
+      year: 2023.01 - 2024.01
+      description:
+      - Project management for the development of the website that presents the results of the project "A edición literaria na Galiza, 1975-2000" (PID2020-119605RB-I0).
+      - Team management, organization, distribution of tasks and negotiation of requirements with the client.
+      - Integration of the DAMI-Framework for data migration, which managed to reduce manual effort in the data migration tasks by 30%.
+      - <b>Technologies:</b> NodeJS / Vue / PostgreSQL/ Docker / Nginx / SQL / NPM / REST / Tomcat / Git
     - title: Project "Reengineering of the Galician Virtual Library"
       year: 2022.06 - 2023.03
       description:
