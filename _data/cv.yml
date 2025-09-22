@@ -19,7 +19,7 @@
       institution: University of A Coruña, A Coruña, Spain
       year: 2021 - 2025
       description:
-        - Thesis “Automated Evolution of Data Schemas in Variability-Intensive Information Systems”
+        - Thesis "Automated Evolution of Data Schemas in Variability-Intensive Information Systems”
         - Visiting Scholar at North Carolina State University, United States of America (01/2024 - 07/2024) 
         # - title: Description 3.
         #   contents:
@@ -30,7 +30,7 @@
       year: 2020 - 2021
       description:
         - Master's Final Project Award funded by the Universidad Politécnica de Madrid (Grants for official masters).
-        - Final Project “SPARQL evaluation over compact data structures”
+        - Final Project """SPARQL evaluation over compact data structures"
         - Grade: 8.57/10
     - title: Degree in Computer Science
       institution: Universidad Politécnica de Madrid, Madrid, Spain
@@ -38,7 +38,7 @@
       description:
         - Coursed bilingual studies in Spanish-English.
         - Specialized in Information Systems. 
-        - Final Project “Tool for the semi-automatic generation of software for Digital Libraries”
+        - Final Project "Tool for the semi-automatic generation of software for Digital Libraries”
         - Grade: 7.24/10
 
 - title: Research Experience
@@ -48,7 +48,7 @@
       institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
       year: 2022 - Present
       description:
-        - Predoctoral fellowship for Research Personnel Training (FPI) in the national project “Enhanced Exploitation of Trajectories with Compact Data Structures and GIS.” (Ref. PID2020-114635RB-I00).
+        - Predoctoral fellowship for Research Personnel Training (FPI) in the national project "Enhanced Exploitation of Trajectories with Compact Data Structures and GIS.” (Ref. PID2020-114635RB-I00).
         - Research, design, implement, and validate mobility management and data engineering tools.
         - Preparation of scientific papers and presentation at national and international conferences.
         -	Contribute to the development of international, national, European, and internal projects.
@@ -85,7 +85,7 @@
     - title: Master'S Final Project Award (Year 2020-2021)
       year: 2021
       institution: Universidad Politécnica de Madrid
-      description: Awarded by Universidad Politécnica de Madrid for the Final Project titled “SPARQL evaluation over compact data structures”.
+      description: Awarded by Universidad Politécnica de Madrid for the Final Project titled "SPARQL evaluation over compact data structures”.
     - title: Spanish Society of Academic Excellence
       year: 2021
       description: Identification Nº 4339. Position 57 in the 2021 National Ranking in Computer Science.
@@ -200,6 +200,16 @@
 #       Principal Investigators: Nieves Rodríguez Brisaboa, Ángeles Saavedra Places, Guillermo de Bernardo Roca, Óscar Pedreira Fernández, Tirso Varela Rodeiro
 #       Participation: Member of the research team
 
+- title: Conference Organization
+  type: time_table
+  contents:
+    - title: Publicity Co-Chair for VARIABILITY 2026                                                                                                                     
+      year: 2026
+      description: Responsible for promoting the International Conference on Software and Systems Reuse, Product Lines, and Configuration through academic channels, mailing lists, and social media.
+    - title: Publicity Co-Chair for SPLC 2025                                                                                                                     
+      year: 2025
+      description: Responsible for promoting the 29th ACM International Systems and Software Product Line Conference through academic channels, mailing lists, and social media.
+
 - title: Academic Interests
   type: nested_list
   contents:
@@ -219,7 +229,14 @@
     - <b>Spanish:</b> Native speaker.
     - <b>Galician:</b> Proficient <em>(C1 Level – CELGA 4 Certificate)</em>.
 
-- title: Other Interests
-  type: list
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+- title: Volunteer Activities
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Hello Sisters Association                                                                                                                   
+      year: 2029-now
+      description: Participation in an association for the visibility of women in Computer Engineering.
