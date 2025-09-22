@@ -82,16 +82,16 @@
       description:
         - Teaching Assistant, BSc in Computer Science — Computer Sciences Preliminaries, Business Process Management
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - title: Master'S Final Project Award (Year 2020-2021)
-#       year: 2021
-#       institution: Universidad Politécnica de Madrid
-#       description: Awarded by Universidad Politécnica de Madrid for the Final Project titled "SPARQL evaluation over compact data structures".
-#     - title: Spanish Society of Academic Excellence
-#       year: 2021
-#       description: Identification Nº 4339. Position 57 in the 2021 National Ranking in Computer Science.
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: Master'S Final Project Award (Year 2020-2021)
+      year: 2021
+      institution: Universidad Politécnica de Madrid
+      description: Awarded by Universidad Politécnica de Madrid for the Final Project titled "SPARQL evaluation over compact data structures".
+    - title: Spanish Society of Academic Excellence
+      year: 2021
+      description: Identification Nº 4339. Position 57 in the 2021 National Ranking in Computer Science.
 
 # - title: Research Projects
 #   type: time_table
