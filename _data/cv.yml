@@ -1,12 +1,16 @@
-- title: General Information
+- title: About Me
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Delfina Ramos Vidal
+    - name: Role
+      value: Predoctoral Researcher at University of A Coruña
+    - name: Location
+      value: A Coruña, Spain
+    - name: LinkedIn
+      value: <a href="https://www.linkedin.com/in/delfina-ramos-vidal/">My Profile</a>
+    - name: Summary
+      value: Predoctoral researcher at the University of A Coruña, focusing on the evolution and maintainability of variability-intensive legacy systems. My work bridges software product lines and data-intensive systems, addressing the co-evolution of code, data schemas, and data.
 
 - title: Education
   type: time_table
