@@ -27,7 +27,10 @@
         #     - Sub-description 2.
     - title: Visiting Scholar
       institution: North Carolina State University, NC, United States of America
-      year: 01/2024-07/2024
+      year: 2024.01 - 2024.07
+      description:
+        - Visiting Scholar at the Software Engineering Group, Department of Computer Science
+        - Supervised by Prof. Wesley K.G. Assunção
     - title: MSc. in Data Science
       institution: Universidad Politécnica de Madrid, Madrid, Spain
       year: 2020 - 2021
@@ -94,6 +97,31 @@
       description: 
       - Identification Nº 4339. 
       - Position 57 in the 2021 National Ranking in Computer Science.
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: '<a href="https://doi.org/10.1016/j.jss.2024.112285">SPL-DB-Sync: Seamless database transformation during feature-driven changes</a>'
+      year: 2025
+      department: Journal of Software and Systems
+      description:
+        - 
+    - title: '<a href="https://arxiv.org/abs/2504.17662">Seamless Data Migration between Database Schemas with DAMI-Framework: An Empirical Study on Developer Experience</a>'
+      year: 2025
+      department: EASE 2025
+      description:
+        - 
+    - title: '<a href="https://doi.org/10.1145/3646548.3676551">Advancing Legacy Software Modernization through Software Product Line Engineering: A Case Study in Digital Libraries</a>'
+      year: 2024
+      department: SPLC 2024
+      description:
+        - 
+    - title: '<a href="https://doi.org/10.1145/3593434.3593436">Reengineering legacy document information systems: Challenges and solutions</a>'
+      year: 2023
+      department: EASE 2023
+      description:
+        - 
+    - title: Full list of publications at <a href="https://ramosvidal.github.io/publications/">Publications</a>
 
 # - title: Research Projects
 #   type: time_table
