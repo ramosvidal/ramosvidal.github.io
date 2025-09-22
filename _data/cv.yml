@@ -12,34 +12,37 @@
     - name: Summary
       value: Predoctoral researcher at the University of A Coruña, focusing on the evolution and maintainability of variability-intensive legacy systems. My work bridges software product lines and data-intensive systems, addressing the co-evolution of code, data schemas, and data.
 
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: PhD in Computing
-#       institution: University of A Coruña, A Coruña, Spain
-#       year: 2021 - 2025
-#       description:
-#         - Thesis "Automated Evolution of Data Schemas in Variability-Intensive Information Systems"
-#         - Visiting Scholar at North Carolina State University, United States of America (01/2024 - 07/2024) 
-#         # - title: Description 3.
-#         #   contents:
-#         #     - Sub-description 1.
-#         #     - Sub-description 2.
-#     - title: MSc. in Data Science
-#       institution: Universidad Politécnica de Madrid, Madrid, Spain
-#       year: 2020 - 2021
-#       description:
-#         - Master's Final Project Award funded by the Universidad Politécnica de Madrid (Grants for official masters).
-#         - Final Project """SPARQL evaluation over compact data structures"
-#         - Grade: 8.57/10
-#     - title: Degree in Computer Science
-#       institution: Universidad Politécnica de Madrid, Madrid, Spain
-#       year: 2020 - 2021
-#       description:
-#         - Coursed bilingual studies in Spanish-English.
-#         - Specialized in Information Systems. 
-#         - Final Project "Tool for the semi-automatic generation of software for Digital Libraries"
-#         - Grade: 7.24/10
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computing
+      institution: University of A Coruña, A Coruña, Spain
+      year: 2021 - 2025
+      description:
+        - Thesis "Automated Evolution of Data Schemas in Variability-Intensive Information Systems"
+        - Visiting Scholar at North Carolina State University, United States of America (01/2024 - 07/2024) 
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Visiting Scholar
+      institution: North Carolina State University, NC, United States of America
+      year: 01/2024-07/2024
+    - title: MSc. in Data Science
+      institution: Universidad Politécnica de Madrid, Madrid, Spain
+      year: 2020 - 2021
+      description:
+        - Master's Final Project Award funded by the Universidad Politécnica de Madrid (Grants for official masters).
+        - Final Project "SPARQL evaluation over compact data structures"
+        - Grade: 8.57/10
+    - title: Degree in Computer Science
+      institution: Universidad Politécnica de Madrid, Madrid, Spain
+      year: 2020 - 2021
+      description:
+        - Coursed bilingual studies in Spanish-English.
+        - Specialized in Information Systems. 
+        - Final Project "Tool for the semi-automatic generation of software for Digital Libraries"
+        - Grade: 7.24/10
 
 # - title: Research Experience
 #   type: time_table
@@ -225,7 +228,7 @@
 # - title: Languages
 #   type: list
 #   contents:
-#     -  <b>English:</b> Proficient <em>(C2 Level – Cambridge University Certificate in Advanced Englishnt)</em>.
+#     - <b>English:</b> Proficient <em>(C2 Level – Cambridge University Certificate in Advanced Englishnt)</em>.
 #     - <b>Spanish:</b> Native speaker.
 #     - <b>Galician:</b> Proficient <em>(C1 Level – CELGA 4 Certificate)</em>.
 
