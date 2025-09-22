@@ -93,16 +93,17 @@
       year: 2021
       description: Identification Nº 4339. Position 57 in the 2021 National Ranking in Computer Science.
 
-# - title: Research Projects
-#   type: time_table
-#   contents:
-#     - title: Modeling, Discovering, Exploring and Analyzing Environmental Data Lakes 
-#       reference: PID2022-141027NB-C21
-#       institution: Ministerio de Ciencia e Innovación. Convocatoria 2022 Generación de Conocimiento
-#       budget: 103.875 euros
-#       Duration: 1-set-2023 to 31-ago-2026
-#       Principal Investigators: Miguel Ángel Rodríguez Luaces, Susana Ladra González
-#       Participation: Member of the development team
+- title: Research Projects
+  type: time_table
+  contents:
+    - title: Modeling, Discovering, Exploring and Analyzing Environmental Data Lakes 
+      description:
+      - <b>Reference:</b> PID2022-141027NB-C21
+      - <b>Financial institution:</b> Ministerio de Ciencia e Innovación. Convocatoria 2022 Generación de Conocimiento
+      - <b>Budget:</b> 103.875 euros
+      - <b>Duration:</b> 1-set-2023 to 31-ago-2026
+      - <b>Principal Investigators:</b> Miguel Ángel Rodríguez Luaces, Susana Ladra González
+      - <b>Participation:</b> Member of the development team
 
 #     - title: PLAtform for the automatic Generation of Energy-efficient Mobility Information Systems (MIS) using compact data structures and Geographic Information Systems (GIS) 
 #       Reference: TED2021-129245B-C21
