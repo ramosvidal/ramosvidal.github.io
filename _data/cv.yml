@@ -44,66 +44,67 @@
         - Final Project "Tool for the semi-automatic generation of software for Digital Libraries"
         - Grade 7.24/10
 
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: Predoctoral FPI Fellowship
-      institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
-      year: 2022 - Present
-      description:
-        - Predoctoral fellowship for Research Personnel Training (FPI) in the national project "Enhanced Exploitation of Trajectories with Compact Data Structures and GIS." (Ref. PID2020-114635RB-I00).
-        - Research, design, implement, and validate mobility management and data engineering tools.
-        - Preparation of scientific papers and presentation at national and international conferences.
-        -	Contribute to the development of international, national, European, and internal projects.
+# - title: Research Experience
+#   type: time_table
+#   contents:
+#     - title: Predoctoral FPI Fellowship
+#       institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
+#       year: 2022 - Present
+#       description:
+#         - Predoctoral fellowship for Research Personnel Training (FPI) in the national project "Enhanced Exploitation of Trajectories with Compact Data Structures and GIS." (Ref. PID2020-114635RB-I00).
+#         - Research, design, implement, and validate mobility management and data engineering tools.
+#         - Preparation of scientific papers and presentation at national and international conferences.
+#         -	Contribute to the development of international, national, European, and internal projects.
 
-    - title: Research Assistant
-      institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
-      year: 2020 - 2022
-      description:
-        - Research for the Database Laboratory at the University of A Coruña.
-        -	Analysis and implementation of a solution to integrate Compact Data Structures for RDF with SPARQL.
-        -	Preparation of scientific papers and presentation at national and international conferences. 
-        -	Development of solutions in R&D projects.
+#     - title: Research Assistant
+#       institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
+#       year: 2020 - 2022
+#       description:
+#         - Research for the Database Laboratory at the University of A Coruña.
+#         -	Analysis and implementation of a solution to integrate Compact Data Structures for RDF with SPARQL.
+#         -	Preparation of scientific papers and presentation at national and international conferences. 
+#         -	Development of solutions in R&D projects.
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Predoctoral Fellow
-      institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
-      year: 2022 - Present
-      description:
-        -	Teaching Assistant, BSc in Artificial Intelligence — Databases and Storage, Preprocessing and Advanced Data Analysis.
-        -	Teaching Assistant, BSc in Economics — Computer Science for Business.                           
-        -	Teaching Assistant, BSc in Computer Science — Computer Sciences Preliminaries and Business Process Management.
+# - title: Teaching Experience
+#   type: time_table
+#   contents:
+#     - title: Predoctoral Fellow
+#       institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
+#       year: 2022 - Present
+#       description:
+#         -	Teaching Assistant, BSc in Artificial Intelligence — Databases and Storage, Preprocessing and Advanced Data Analysis.
+#         -	Teaching Assistant, BSc in Economics — Computer Science for Business.                           
+#         -	Teaching Assistant, BSc in Computer Science — Computer Sciences Preliminaries and Business Process Management.
 
-    - title: Substitute Teaching
-      institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
-      year: 2022
-      description:
-        - Teaching Assistant, BSc in Computer Science — Computer Sciences Preliminaries, Business Process Management
+#     - title: Substitute Teaching
+#       institution: UNIVERSIDADE DA CORUÑA, A Coruña, Spain
+#       year: 2022
+#       description:
+#         - Teaching Assistant, BSc in Computer Science — Computer Sciences Preliminaries, Business Process Management
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - title: Master'S Final Project Award (Year 2020-2021)
+    - title: Master's Final Project Award (Year 2020-2021)
       year: 2021
       institution: Universidad Politécnica de Madrid
-      description: Awarded by Universidad Politécnica de Madrid for the Final Project titled "SPARQL evaluation over compact data structures".
+      maindescription: Awarded by Universidad Politécnica de Madrid for the Final Project titled "SPARQL evaluation over compact data structures".
     - title: Spanish Society of Academic Excellence
       year: 2021
-      description: Identification Nº 4339. Position 57 in the 2021 National Ranking in Computer Science.
+      description: 
+      - Identification Nº 4339. Position 57 in the 2021 National Ranking in Computer Science.
 
-- title: Research Projects
-  type: time_table
-  contents:
-    - title: Modeling, Discovering, Exploring and Analyzing Environmental Data Lakes 
-      description:
-      - <b>Reference:</b> PID2022-141027NB-C21
-      - <b>Financial institution:</b> Ministerio de Ciencia e Innovación. Convocatoria 2022 Generación de Conocimiento
-      - <b>Budget:</b> 103.875 euros
-      - <b>Duration:</b> 1-set-2023 to 31-ago-2026
-      - <b>Principal Investigators:</b> Miguel Ángel Rodríguez Luaces, Susana Ladra González
-      - <b>Participation:</b> Member of the development team
+# - title: Research Projects
+#   type: time_table
+#   contents:
+#     - title: Modeling, Discovering, Exploring and Analyzing Environmental Data Lakes 
+#       description:
+#       - <b>Reference:</b> PID2022-141027NB-C21
+#       - <b>Financial institution:</b> Ministerio de Ciencia e Innovación. Convocatoria 2022 Generación de Conocimiento
+#       - <b>Budget:</b> 103.875 euros
+#       - <b>Duration:</b> 1-set-2023 to 31-ago-2026
+#       - <b>Principal Investigators:</b> Miguel Ángel Rodríguez Luaces, Susana Ladra González
+#       - <b>Participation:</b> Member of the development team
 
 #     - title: PLAtform for the automatic Generation of Energy-efficient Mobility Information Systems (MIS) using compact data structures and Geographic Information Systems (GIS) 
 #       Reference: TED2021-129245B-C21
@@ -204,15 +205,15 @@
 #       Principal Investigators: Nieves Rodríguez Brisaboa, Ángeles Saavedra Places, Guillermo de Bernardo Roca, Óscar Pedreira Fernández, Tirso Varela Rodeiro
 #       Participation: Member of the research team
 
-- title: Conference Organization
-  type: time_table
-  contents:
-    - title: Publicity Co-Chair for VARIABILITY 2026                                                                                                                     
-      year: 2026
-      description: Responsible for promoting the International Conference on Software and Systems Reuse, Product Lines, and Configuration through academic channels, mailing lists, and social media.
-    - title: Publicity Co-Chair for SPLC 2025                                                                                                                     
-      year: 2025
-      description: Responsible for promoting the 29th ACM International Systems and Software Product Line Conference through academic channels, mailing lists, and social media.
+# - title: Conference Organization
+#   type: time_table
+#   contents:
+#     - title: Publicity Co-Chair for VARIABILITY 2026                                                                                                                     
+#       year: 2026
+#       description: Responsible for promoting the International Conference on Software and Systems Reuse, Product Lines, and Configuration through academic channels, mailing lists, and social media.
+#     - title: Publicity Co-Chair for SPLC 2025                                                                                                                     
+#       year: 2025
+#       description: Responsible for promoting the 29th ACM International Systems and Software Product Line Conference through academic channels, mailing lists, and social media.
 
 # - title: Academic Interests
 #   type: nested_list
@@ -226,21 +227,21 @@
 #         - Description 1.
 #         - Description 2.
 
-- title: Languages
-  type: list
-  contents:
-    - <b>English:</b> Proficient <em>(C2 Level – Cambridge University Certificate in Advanced Englishnt)</em>.
-    - <b>Spanish:</b> Native speaker.
-    - <b>Galician:</b> Proficient <em>(C1 Level – CELGA 4 Certificate)</em>.
+# - title: Languages
+#   type: list
+#   contents:
+#     - <b>English:</b> Proficient <em>(C2 Level – Cambridge University Certificate in Advanced Englishnt)</em>.
+#     - <b>Spanish:</b> Native speaker.
+#     - <b>Galician:</b> Proficient <em>(C1 Level – CELGA 4 Certificate)</em>.
 
 # # - title: Other Interests
 # #   type: list
 # #   contents:
 # #     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
 
-- title: Volunteer Activities
-  type: time_table
-  contents:
-    - title: Hello Sisters Association                                                                                                                   
-      year: 2029-now
-      description: Participation in an association for the visibility of women in Computer Engineering.
+# - title: Volunteer Activities
+#   type: time_table
+#   contents:
+#     - title: Hello Sisters Association                                                                                                                   
+#       year: 2029-now
+#       description: Participation in an association for the visibility of women in Computer Engineering.
