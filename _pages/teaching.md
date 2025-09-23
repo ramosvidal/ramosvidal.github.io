@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: This section shows the teaching given in degrees, masters and other official studies in last years.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 ## Academic Year 2025/26
