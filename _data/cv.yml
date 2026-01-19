@@ -4,22 +4,22 @@
     - name: Name
       value: Delfina Ramos Vidal
     - name: Role
-      value: Predoctoral Researcher at Universidade da Coruña
+      value: Postdoctoral Researcher at Universidade da Coruña
     - name: Location
       value: A Coruña, Spain
     - name: LinkedIn
       value: <a href="https://www.linkedin.com/in/delfina-ramos-vidal/">My Profile</a>
     - name: Summary
-      value: Predoctoral researcher at the Universidade da Coruña, focusing on the evolution and maintainability of variability-intensive legacy systems. My work bridges software product lines and data-intensive systems, addressing the co-evolution of code, data schemas, and data.
+      value: Postdoctoral researcher at the Universidade da Coruña, focusing on the evolution and maintainability of variability-intensive legacy systems. My work bridges software product lines and data-intensive systems, addressing the co-evolution of code, data schemas, and data.
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Computing
       institution: Universidade da Coruña, A Coruña, Spain
-      year: 2021 - 2025
+      year: 2021.10 - 2025.10
       description:
-        - Thesis "Automated Evolution of Data Schemas in Variability-Intensive Information Systems"
+        - Thesis "Automated Evolution of Data Schemas in Variability-Intensive Information Systems". Awarded <i>Cum Laude</i> distinction.
         - International Doctorate. Six-month research stay at the North Carolina State University, United States of America.
         #- Visiting Scholar at North Carolina State University, United States of America (01/2024 - 07/2024) 
         # - title: Description 3.
@@ -51,6 +51,14 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Postdoctoral FPI Fellowship
+      institution: Universidade da Coruña, A Coruña, Spain
+      year: 2025 - 2026
+      description:
+        - Postdoctoral fellowship for Research Personnel Training (FPI) granted by the Ministry of Science, Innovation and Universities.
+        - Expand prior doctoral research on variability-intensive information systems.
+        - Led research dissemination through high-impact publications and international conferences.
+
     - title: Predoctoral FPI Fellowship
       institution: Universidade da Coruña, A Coruña, Spain
       year: 2022 - 2025
@@ -255,9 +263,9 @@
 - title: Conference Organization
   type: time_table
   contents:
-    - title: Publicity Co-Chair for VARIABILITY 2026
+    - title: Social Media Chair for VARIABILITY 2026
       year: 2026
-      maindescription: Responsible for promoting the International Conference on Software and Systems Reuse, Product Lines, and Configuration through academic channels, mailing lists, and social media.
+      maindescription: Responsible for promoting the International Conference on Software and Systems Reuse, Product Lines, and Configuration through academic channels and social media.
     - title: Publicity Co-Chair for SPLC 2025
       year: 2025
       maindescription: Responsible for promoting the 29th ACM International Systems and Software Product Line Conference through academic channels, mailing lists, and social media.
