@@ -8,7 +8,7 @@ middle_name:
 last_name: Ramos Vidal
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Predoctoral researcher at the University of A Coruña, focusing on the evolution and maintainability of variability-intensive legacy systems. My work bridges software product lines and data-intensive systems, addressing the co-evolution of code, data schemas, and data.
+  Postdoctoral researcher at the University of A Coruña, focusing on the evolution and maintainability of variability-intensive legacy systems. My work bridges software product lines and data-intensive systems, addressing the co-evolution of code, data schemas, and data.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
